@@ -1,0 +1,9 @@
+Results for: Crib phrase is Emirp, First 5 offsets of the crib word are descending in order.
+
+Crib | Offsets | GP Sum
+A CHILANKO  14,13,13,7,7,5,5,16,  383
+A UNPAUNCH  18,12,10,3,1,5,5,11,  337
+A UNPLUGGING  18,12,10,7,1,8,4,20,  359
+A AVONMORE  24,20,20,18,12,11,6,1,  389
+A DUGPUNKT  25,20,17,14,1,5,5,3,  353
+A DEATHWARDS  25,22,21,20,7,10,16,4,  701
