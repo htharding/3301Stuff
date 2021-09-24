@@ -1,4 +1,5 @@
-Assumes that the crib phrase is Emirp, and that the first 5 offsets of the crib word is ascending in order.
+Results for: Crib phrase is Emirp, First 5 offsets of the crib word are ascending in order.
+
 Crib | Offsets | GP Sum
 A MELANAEMIA  0,3,3,3,22,18,20,21,  797
 A MESORHIN  0,3,8,24,27,6,0,10,  389
